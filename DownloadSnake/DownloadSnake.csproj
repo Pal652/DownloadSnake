@@ -6,4 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Hungry_Worm-master.zip" />
+    <Content Include="index.html" />
+  </ItemGroup>
+
 </Project>
